@@ -37,9 +37,11 @@ The script creates:
 * a CSV file containing parsed event data (e.g., solar_events_2015.csv)
 
 ## Project Structure
+```
 SolarFlaresDataTool/
 ├── cli.py
 ├── README.md
+```
 
 ## Notes
 This project is a lightweight research tool for processing archived solar event data.
